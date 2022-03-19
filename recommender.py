@@ -4,8 +4,6 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt
 import altair as alt
-import nltk
-nltk.download('stopwords')
 
 from rake_nltk import Rake
 from nltk.corpus import stopwords
